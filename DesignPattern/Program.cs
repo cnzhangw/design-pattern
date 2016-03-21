@@ -79,6 +79,8 @@ namespace DesignPattern
             //PrototypePattern();
             //BridgePattern();
 
+            //这是测试github的代码
+
             while (ConsoleKey.Enter != Console.ReadKey(true).Key) { }
         }
     }
